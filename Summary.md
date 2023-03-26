@@ -1,10 +1,10 @@
-
 &emsp;
 # 总结
 
+
 &emsp;
 # 1 基本介绍
-
+l
 ## 1.1 Linux
 - 文件目录
 - 基本操作命令
@@ -112,4 +112,3 @@ I_option := $(include_paths:%=-I%)
 （2）伪目标.PHONY
 告诉 Make 在.PHONY 后面的都是伪目标（命令），不用生成文件，每次都会执行下面的 command（如果有 command 的话）
 
->>>>>>> 86ca59d (update)
